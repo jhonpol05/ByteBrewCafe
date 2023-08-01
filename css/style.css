@@ -719,7 +719,7 @@ section{
 
   .right .text-description a {
     width: 100%; 
-    max-width: 100px; 
+    max-width: 110px; 
     height: auto;
     display: flex;
     align-items: center;
